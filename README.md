@@ -9,3 +9,5 @@ How to run
 
 
 QEMU is downloadable here: https://www.qemu.org/download/
+
+New system call can be found in getCount.c file.
